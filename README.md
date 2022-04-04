@@ -10,7 +10,7 @@ I'm studying at Kenzie Academy-Brazil to be a Full-Stack Web Dev.
 
 <div>
   <a href="https://github.com/theogandara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theogandara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=theogandara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogandara&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
