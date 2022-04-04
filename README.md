@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 - 🔭 I’m currently working on ...
@@ -10,14 +10,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+My name is Théo Gândara, I'm from Brazil 🇧🇷
+I'm studying at Kenzie Academy-Brazil to be a Full-Stack Web Dev.
+
 <div>
-  <a href="https://github.com/LucasGasque">
+  <a href="https://github.com/theogandara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theogandara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogandara&layout=compact&langs_count=7&theme=tokyonight"/> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogandara&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
-  
+## Technologies
+
+Some of the tools and technologies that I work with:
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,3 +35,13 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
+  
+  ##
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/theogandara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
