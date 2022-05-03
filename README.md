@@ -1,12 +1,11 @@
 # Eae !! 👋
 
 
-- 🔭 Atualmente eu trabalho na Kenzie Academy como PeerCoach (monitoria React e Node.JS)
+- 🔭 Atualmente eu trabalho na HexaLab
 - 🌱 Estou estudando Python e Banco de dados. Flask, MongoDB, PostgreSQL.
 - 📫 Como me encontrar: theogandara@gmail.com - 11 971655090
 
 My name is Théo Gândara, I'm from Brazil 🇧🇷
-I'm studying at Kenzie Academy-Brazil to be a Full-Stack Web Dev.
 
 <div>
   <a href="https://github.com/theogandara">
