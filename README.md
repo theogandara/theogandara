@@ -9,8 +9,8 @@ My name is Théo Gândara, I'm from Brazil 🇧🇷
 
 <div>
   <a href="https://github.com/theogandara">
-  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=theogandara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogandara&layout=compact&langs_count=7&theme=dark"/> -->
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=theogandara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogandara&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Technologies
