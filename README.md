@@ -1,9 +1,9 @@
 # Eae !! 👋
 
 
- 🔭 Atualmente eu trabalho na HexaLab
- 🌱 Estou estudando Python e Banco de dados. Flask, MongoDB, PostgreSQL.
- 📫 Como me encontrar: theogandara@gmail.com - 11 971655090
+- 🔭 Atualmente eu trabalho na HexaLab
+- 🌱 Estou estudando Python e Banco de dados. Flask, MongoDB, PostgreSQL.
+- 📫 Como me encontrar: theogandara@gmail.com - 11 971655090
 
 My name is Théo Gândara, I'm from Brazil 🇧🇷
 
