@@ -1,7 +1,7 @@
 # Eae !! 👋
 
 
-- 🔭 Atualmente eu trabalho na HexaLab
+- 🔭 Atualmente eu trabalho na HexaLab como desenvolvedor front end.
 - 🌱 Estou estudando Python e Banco de dados. Flask, MongoDB, PostgreSQL.
 - 📫 Como me encontrar: theogandara@gmail.com - 11 971655090
 
