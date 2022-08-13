@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente eu trabalho na HexaLab como desenvolvedor front end.
-- 🌱 Estou estudando Python e Banco de dados. Flask, MongoDB, PostgreSQL.
+- 🌱 Estou estudando Java e Banco de dados. Spring, MongoDB, PostgreSQL.
 - 📫 Como me encontrar: theogandara@gmail.com - 11 971655090
 
 My name is Théo Gândara, I'm from Brazil 🇧🇷
