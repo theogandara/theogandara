@@ -1,4 +1,4 @@
-# Theo Gandara
+# Théo Gândara
 
 ## Sobre mim
 Sou desenvolvedor de software com foco em **JavaScript**, **React**, **TypeScript** e **Python**. Tenho experiência na criação de aplicações web, desenvolvimento de APIs e aplicações mobile. Atualmente meus estudos estão voltados para Clean Code e DevOps.
