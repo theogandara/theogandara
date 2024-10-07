@@ -17,4 +17,4 @@ Sou desenvolvedor de software com foco em **JavaScript**, **React**, **TypeScrip
 **WaiterApp** – Aplicativo desenvolvido para o garçom em react native, a aplicação também conta com gerenciamento dos pedidos com uma página web.
 
 ## Contato
-Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/theogandara) ou enviar um e-mail para theogandara@gmail.com.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/theogandara) ou enviar um e-mail para theogandara@gmail.com.
