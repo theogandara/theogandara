@@ -5,7 +5,7 @@ Sou desenvolvedor de software com foco em **JavaScript**, **React**, **TypeScrip
 
 ## Tecnologias e Ferramentas
 - **Front-end**: React, TypeScript, JavaScript, HTML, CSS.
-- **Back-end**: Node.js, Python, MySQL, Postgres, MongoDB
+- **Back-end**: Node.js, Python, MySQL, Postgres, MongoDB.
 - **DevOps**: Docker, AWS, Oracle.
 - **Testes**: Jest, Vitest, Cypress, Selenium.
 
